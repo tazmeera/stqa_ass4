@@ -1,10 +1,3 @@
-==========================================================================
-ASSIGNMENT-4: SOFTWARE TESTING AND QUALITY ASSURANCE (MCA 2nd YEAR)
-Course Code: MCA211D
-Topics: Defect Management, Test Metrics, Test Reporting
-==========================================================================
-
-
 --------------------------------------------------------------------------
 Q1. What is a Defect? Explain the importance of defect tracking in
     software testing.
@@ -569,6 +562,3 @@ Problem -> Metric signal -> Improvement action:
 Metrics should be tracked for each release and the trend reviewed to confirm
 the improvements are working (continuous improvement, PDCA cycle).
 
-==========================================================================
-END OF ASSIGNMENT-4
-==========================================================================
